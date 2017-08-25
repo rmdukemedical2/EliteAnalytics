@@ -20,9 +20,9 @@
   },
   "dependencies": {
 <<<<<<< HEAD
-    "@procore/js-sdk": "^0.12.0",
+    "@rmdukemedical2/EliteAnalytics": "^0.12.0",
 =======
-    "@procore/js-sdk": "^1.2.0",
+    "@rmdukemedical2/EliteAnalytics": "^1.2.0",
 >>>>>>> fix: set up credentials correctly
     "alphanum-sort": "^1.0.2",
     "dotenv": "^4.0.0",
